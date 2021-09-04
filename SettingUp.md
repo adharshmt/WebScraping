@@ -1,18 +1,16 @@
-1.install python
+1. Install Python: https://www.python.org/downloads/
 
-    https://www.python.org/downloads/
+2. Install `selenium` using `pip`
 
-2.install selenium using pip
-
-    pip is already present in python scripts folder
+    `pip` should already come with Python. If not, see installation instructions [here](https://pip.pypa.io/en/stable/installation/). 
     
-      \Python39\Scripts\pip.exe install selenium
+    `$> \Python39\Scripts\pip.exe install selenium`
       
-3.install chrome driver
+3. Install ChromeDriver and ensure it is available in PATH. The driver version should match the version of Chrome you're running.
 
     https://sites.google.com/a/chromium.org/chromedriver/downloads
     
-4.Start coding
+4. Start scraping!
 
 
   
