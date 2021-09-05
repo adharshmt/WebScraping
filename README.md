@@ -1,9 +1,8 @@
-# WebScrapping
-web scrapping with python and selenium
---
+# WebScraping
+## Web scraping with python and selenium
 
-trying to automate navigation across pages and copying data required.
+Automating Navigation across pages and collecting data.
 
-how to setup is described [here](SettingUp.md)
+How to setup is described [here](SettingUp.md)
 
 
