@@ -6,7 +6,7 @@ from time import sleep
 options = Options()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
-driver = webdriver.Chrome(executable_path="C:/Users/ASUS/AppData/Local/Programs/Python/Python39/chromedriver.exe", chrome_options=options)
+driver = webdriver.Chrome(executable_path="chromedriver.exe", options=options)
 driver.get("https://www.theverge.com/")
 sleep(2)
 
